@@ -1,0 +1,58 @@
+/* HERE WE ALL THE STYLES FOR OUR DROPDOWN  */
+
+.outerContainer {
+    height: 80vh;
+    width: 70vw;
+    background-color: rgb(93, 120, 143);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5rem;
+}
+
+
+.heading {
+    color: white;
+}
+
+
+.innerContainer {
+    margin-top: 4rem;
+}
+
+
+.textArea {
+    background-color: white;
+    display: flex;
+    align-items: center;
+
+}
+
+.searchBox {
+    height: 2rem;
+    width: 25rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+}
+
+.downArrow {
+    height: 100%;
+    width: 2rem;
+}
+
+
+.listContent {
+    background-color: white;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
+
+
+.element {
+    padding: 0.5rem;
+}
+
+
+.element:hover {
+    background-color: bisque;
+}
